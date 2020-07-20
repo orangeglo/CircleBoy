@@ -1,5 +1,5 @@
 # CircleBoy
-CirlceBoy is a small circuit board that lets you replace the directional pad on a gameboy or other device with an analog joystick. CircleBoy was designed specifically to us the 3DS cirlce pad with a gameboy, but is adaptable to tons of use cases.
+CirlceBoy is a small circuit board that lets you replace the directional pad on a gameboy or other device with an analog joystick. CircleBoy was designed specifically to use the 3DS circle pad with a gameboy, but is adaptable to tons of use cases.
 
 ## Installation Gallery
 A gallery of my installation of the board can be [found here](https://imgur.com/a/vMOLDO8).
